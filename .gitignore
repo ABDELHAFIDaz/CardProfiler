@@ -65,7 +65,7 @@ mlruns/
 mlartifacts/
 
 # Trained models
-models/*.joblib
+# models/*.joblib
 
 
 /exercises
